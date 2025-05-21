@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88372286958",
+    "project_id": "familylocation-6bee5",
+    "storage_bucket": "familylocation-6bee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88372286958:android:d2f90fe7f39f8ace3deaff",
+        "android_client_info": {
+          "package_name": "com.polytech.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzXCJNqOhHuFPHkPbpiz9NmAuqHz17ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
